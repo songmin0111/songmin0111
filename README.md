@@ -33,7 +33,7 @@
 
 ## 📃 Projects
 
-| 프로젝트명 | 설명 | 상태 | 링크 |
-|--------------------|---|---|------------|
-| **🛠️ mleakdetect** | 시계열 예측 모델 평가에서 data leakage를 정량화·리포트하는 파이썬 라이브러리 | 완료 | https://github.com/songmin0111/mleakdetect |
-| **☕ AAYO** | 단체 커피 메뉴 주문 시 효율적인 메뉴 취합을 도와주는 서비스 | 완료 | https://github.com/shwnahn/aayo |
+| 프로젝트명 | 설명 | 깃허브 |
+|------------|------|--------|
+| **🛠️ mleakdetect** | 시계열 예측 모델 평가에서 data leakage를 정량화·리포트하는 파이썬 라이브러리 | [완료] (https://github.com/songmin0111/mleakdetect) |
+| **☕ AAYO** | 단체 커피 메뉴 주문 시 효율적인 메뉴 취합을 도와주는 서비스 | [완료] (https://github.com/shwnahn/aayo) |
